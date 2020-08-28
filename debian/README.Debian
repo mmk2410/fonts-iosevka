@@ -1,0 +1,9 @@
+fonts-iosevka for Debian
+-----------------------
+
+This package only contains the Iosekva default font.
+
+Iosevka Term, Iosevka Fixed, and any other variations are not included in this
+package.
+
+ -- Marcel Kapfer <opensource@mmk2410.org>  Fri, 28 Aug 2020 17:14:44 +0200

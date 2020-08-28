@@ -1,0 +1,21 @@
+Source: fonts-iosevka
+Section: fonts
+Priority: optional
+Maintainer: Marcel Kapfer <opensource@mmk2410.org>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+Homepage: https://typeof.net/Iosevka/
+Vcs-Browser: https://git.mmk2410.org/deb/fonts-iosevka
+Vcs-Git: https://git.mmk2410.org/deb/fonts-iosevka.git
+
+Package: fonts-iosevka
+Architecture: any
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Iosevka monospace font family
+ Iosevka is an open-source, sans-serif + slab-serif, monospace + quasi‑
+ proportional typeface family, designed for writing code, using in terminals,
+ and preparing technical documents.
+ .
+ This is only the default monospace version titled "Iosevka". The package does
+ not include Iosevka Term, Iosevka Fixed, or any other variations.
